@@ -1,0 +1,13 @@
+{
+  "Interview": {
+    "candidate": "string",
+    "date": "date",
+    "type": "string",
+    "result": "int",
+    "comments": "Interview[]"
+  },
+  "Interviewer": {
+    "name": "string",
+    "email": "string"
+  }
+}
