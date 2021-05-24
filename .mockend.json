@@ -4,9 +4,10 @@
     "date": "date",
     "type": "string",
     "result": "int",
-    "comments": "Interview[]"
+    "interviewers": "Interviewer[]"
   },
   "Interviewer": {
+    "interview": "Interview",
     "name": "string",
     "email": "string"
   }
